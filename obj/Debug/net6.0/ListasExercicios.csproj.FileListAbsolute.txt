@@ -1,0 +1,15 @@
+C:\Users\Bruno\OneDrive\Documentos\Curso C# UDEMY\ListasExercicios\bin\Debug\net6.0\ListasExercicios.exe
+C:\Users\Bruno\OneDrive\Documentos\Curso C# UDEMY\ListasExercicios\bin\Debug\net6.0\ListasExercicios.deps.json
+C:\Users\Bruno\OneDrive\Documentos\Curso C# UDEMY\ListasExercicios\bin\Debug\net6.0\ListasExercicios.runtimeconfig.json
+C:\Users\Bruno\OneDrive\Documentos\Curso C# UDEMY\ListasExercicios\bin\Debug\net6.0\ListasExercicios.dll
+C:\Users\Bruno\OneDrive\Documentos\Curso C# UDEMY\ListasExercicios\bin\Debug\net6.0\ref\ListasExercicios.dll
+C:\Users\Bruno\OneDrive\Documentos\Curso C# UDEMY\ListasExercicios\bin\Debug\net6.0\ListasExercicios.pdb
+C:\Users\Bruno\OneDrive\Documentos\Curso C# UDEMY\ListasExercicios\obj\Debug\net6.0\ListasExercicios.csproj.AssemblyReference.cache
+C:\Users\Bruno\OneDrive\Documentos\Curso C# UDEMY\ListasExercicios\obj\Debug\net6.0\ListasExercicios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bruno\OneDrive\Documentos\Curso C# UDEMY\ListasExercicios\obj\Debug\net6.0\ListasExercicios.AssemblyInfoInputs.cache
+C:\Users\Bruno\OneDrive\Documentos\Curso C# UDEMY\ListasExercicios\obj\Debug\net6.0\ListasExercicios.AssemblyInfo.cs
+C:\Users\Bruno\OneDrive\Documentos\Curso C# UDEMY\ListasExercicios\obj\Debug\net6.0\ListasExercicios.csproj.CoreCompileInputs.cache
+C:\Users\Bruno\OneDrive\Documentos\Curso C# UDEMY\ListasExercicios\obj\Debug\net6.0\ListasExercicios.dll
+C:\Users\Bruno\OneDrive\Documentos\Curso C# UDEMY\ListasExercicios\obj\Debug\net6.0\ref\ListasExercicios.dll
+C:\Users\Bruno\OneDrive\Documentos\Curso C# UDEMY\ListasExercicios\obj\Debug\net6.0\ListasExercicios.pdb
+C:\Users\Bruno\OneDrive\Documentos\Curso C# UDEMY\ListasExercicios\obj\Debug\net6.0\ListasExercicios.genruntimeconfig.cache
